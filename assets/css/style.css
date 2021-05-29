@@ -1,0 +1,25 @@
+:root {
+    --darkish: #525252;
+    --darker:  #414141;
+    --darkest: #313131;
+    --standout: #EC5FA3;
+    --notwhite: #DADADA;
+    --font-over: font-family: 
+}
+
+* {
+    background-color: var(--darkest);
+    color: var(--notwhite);
+    font-family: Montserrat;
+}
+
+.title {
+    color: var(--notwhite);
+    margin-bottom: 0px;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.mcac-main-logo {
+    font-family: 'Libre Baskerville', serif;
+    color: var(--notwhite);
+}
